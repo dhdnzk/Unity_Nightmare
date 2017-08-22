@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nightmare_review", "Assembly-CSharp.csproj", "{58787C89-E090-03E0-BBC7-D7ABA34AB1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nightmare_review", "Assembly-CSharp-Editor.csproj", "{B48DAC46-D766-77A6-D969-5CC0940B7A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58787C89-E090-03E0-BBC7-D7ABA34AB1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58787C89-E090-03E0-BBC7-D7ABA34AB1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58787C89-E090-03E0-BBC7-D7ABA34AB1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58787C89-E090-03E0-BBC7-D7ABA34AB1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48DAC46-D766-77A6-D969-5CC0940B7A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48DAC46-D766-77A6-D969-5CC0940B7A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48DAC46-D766-77A6-D969-5CC0940B7A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48DAC46-D766-77A6-D969-5CC0940B7A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

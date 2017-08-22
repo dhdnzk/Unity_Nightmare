@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/HPCubeManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Managers/HPCubeManager.cs" Line="37" Column="1" />
+      <File FileName="Assets/Scripts/Item/HPCube.cs" Line="22" Column="29" />
+      <File FileName="Assets/Scripts/Managers/GameOverManager.cs" Line="20" Column="5" />
+      <File FileName="Assets/Scripts/Camera/CameraFollow.cs" Line="14" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Nightmare" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Item" expanded="True" />
+                <Node name="Managers" expanded="True">
+                  <Node name="HPCubeManager.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Assembly-CSharp-Editor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
